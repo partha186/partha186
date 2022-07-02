@@ -18,10 +18,10 @@ h3>🛠 Tech Stack</h3>
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Photoshop 
+
 <br>
 <p align="center">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-width="50" /></a>
 </p> 
 
 </br>
@@ -35,3 +35,4 @@ width="50" /></a>
 </p>
 
 ⭐️ From [partha186] (hhttps://github.com/partha186)
+⭐️ Thank You....
