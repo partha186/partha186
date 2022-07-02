@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hey there! I'm Partha. <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" width="50">
+</h2>
 
-<!--
-**partha186/partha186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<video align="right" alt="GIF" poster="https://i.gifer.com/fetch/w300-preview/cf/cf95f54d66e86b735a6a549deb92c993.gif" width="200" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/GYny.mp4" type="video/mp4"></video>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>👨 ::::About Me::::</h3>
+
+- 🔭 &nbsp; I’m currently learning..a noob
+- 🤔 &nbsp; Exploring new technologies and quick hacks.
+- 🎓 &nbsp; Still exploring.
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence, mech by passion😎:::
+
+h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | R |Django | Flask| Spark | C++ | Tableau
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Photoshop 
+<br>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+
+</br>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.kaggle.com/parthabera" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/parthasarathi-bera-75b568118/," target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:bera.partha050@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [partha186] (hhttps://github.com/partha186)
