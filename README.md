@@ -19,8 +19,10 @@ h3>🛠 Tech Stack</h3>
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 - 🖥 &nbsp; Photoshop 
 <br>
-
+<p align="center">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+width="50" /></a>
+</p> 
 
 </br>
 
