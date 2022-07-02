@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Still exploring.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence, mech by passion😎:::
 
-h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R |Django | Flask| Spark | C++ | Tableau
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
