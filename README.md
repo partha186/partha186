@@ -6,17 +6,17 @@
 
 <h3>👨 ::::About Me::::</h3>
 
-- 🔭 &nbsp; I’m currently learning..a noob
+- 🔭 &nbsp; I’m currently learning..a noob...Worked at Barclays in Quantitative Analytics domain
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Still exploring.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence, mech by passion😎:::
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | R |Django | Flask| Spark | C++ | Tableau
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 💻 &nbsp; Python | R |Django | Flask| Spark | C++ | Tableau | Power BI | SAS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | 
+- 🛢 &nbsp; MySQL  
+- 🔧 &nbsp; PyCharm | Visual Studio code | Git |Bitbucket | Confluence | 
 - 🖥 &nbsp; Photoshop 
 
 <br>
