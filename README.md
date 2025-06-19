@@ -4,7 +4,7 @@
 <video align="right" alt="GIF" poster="https://i.gifer.com/fetch/w300-preview/cf/cf95f54d66e86b735a6a549deb92c993.gif" width="200" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/GYny.mp4" type="video/mp4"></video>
 
 
-<h3>👨 ::::About Me::::</h3>
+<h3>👨 ::::============About Me==============:::</h3>
 
 - 🔭 &nbsp; I’m currently learning..a noob...Worked at Barclays in Quantitative Analytics domain
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
