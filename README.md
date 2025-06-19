@@ -36,3 +36,7 @@
 
 ⭐️ From [partha186] (hhttps://github.com/partha186)
 ⭐️ Thank You....
+
+![image](https://github.com/user-attachments/assets/f0dc2715-4383-4c7a-a03c-74f0e7509530)
+![image](https://github.com/user-attachments/assets/9441efa0-d3f6-49ef-8584-967d72b80026)
+
