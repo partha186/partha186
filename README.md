@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R |Django | Flask| Spark | C++ | Tableau | Power BI | SAS
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | streamlit | 
 - 🛢 &nbsp; MySQL  
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git |Bitbucket | Confluence | 
 - 🖥 &nbsp; Photoshop 
