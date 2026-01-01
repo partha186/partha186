@@ -1,5 +1,4 @@
-<h2> Hey there! I'm Partha. <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" width="50">
-</h2>
+<h2> Hey there! I'm Parthasarathi.  </h2>
 
 <video align="right" alt="GIF" poster="https://i.gifer.com/fetch/w300-preview/cf/cf95f54d66e86b735a6a549deb92c993.gif" width="200" class="full-media" loop="" autoplay="" playsinline=""><source src="https://i.gifer.com/GYny.mp4" type="video/mp4"></video>
 
