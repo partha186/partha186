@@ -6,7 +6,7 @@
 
 <h3>👨 ::::============About Me==============:::</h3>
 
-- 🔭 &nbsp; I’m currently learning..a noob...Worked at Barclays in Quantitative Analytics domain
+- 🔭 &nbsp; I’m currently learning..a noob...Worked in Quantitative Analytics domain
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Still exploring.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence, mech by passion😎:::
