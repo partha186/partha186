@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently learning..a noob...Worked in Quantitative Analytics domain
 - 🤔 &nbsp; Exploring new technologies and quick hacks.
 - 🎓 &nbsp; Still exploring.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence, mech by passion😎:::
+- 🌱 &nbsp; Enthusiast in Machine learning, Artificial Intelligence, though mechanial engineer by passion😎:::
 
 <h3>🛠 Tech Stack</h3>
 
