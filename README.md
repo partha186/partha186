@@ -6,8 +6,8 @@
 <h3>👨 ::::============About Me==============:::</h3>
 
 - 🔭 &nbsp; I’m currently learning..a noob...Worked in Quantitative Analytics domain
-- 🤔 &nbsp; Exploring new technologies and quick hacks.
-- 🎓 &nbsp; Still exploring.
+- 🤔 &nbsp; Exploring new technologies and quick hacks both for jonb and also in the Credit risk space.
+- 🎓 &nbsp; Still exploring the intersection of computer science, Statistics, Finance.  
 - 🌱 &nbsp; Enthusiast in Machine learning, Artificial Intelligence, though mechanial engineer by passion😎:::
 
 <h3>🛠 Tech Stack</h3>
